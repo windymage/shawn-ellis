@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv: //clownpiece:ClownPiece@cluster0-jzhak.mongodb.net/test?retryWrites=true&w=majority"
+}
